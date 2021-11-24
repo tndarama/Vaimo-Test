@@ -27,7 +27,7 @@ You can get the source code without a zip file by cloning the repository on your
 1. In your command line : git clone https://github.com/tndarama/Vaimo-Test.git
 2. Install Github on your desktop and in the app select clone repository 
 3. Navigate to where the repository was stored in the first step and select the folder " repository URL " 
-4. this will give you all the code used. please open the source code in VS Code and after "cd" tp source folder use " npm start " to run a developers build of the website. 
+4. this will give you all the code used. please open the source code in VS Code and after "cd" to source folder use " npm start " to run a developers build of the website. 
 
 
 #### Summary of Tech Stack 
